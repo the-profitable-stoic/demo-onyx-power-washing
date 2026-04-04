@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-onyx-power-washing.dream-surge.com/sitemap-index.xml
